@@ -9,5 +9,11 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/BrutalEnigmaChase.mp3",
+      "destination": "/BrutalEnigmaChase.mp3"
+    }
   ]
 }
